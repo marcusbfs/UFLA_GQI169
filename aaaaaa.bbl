@@ -1,0 +1,79 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem{teves}
+\abntrefinfo{Teves}{TEVES}{2003}
+{TEVES, M. L.~U. \textbf{{\'A}cido Acetilsalic{\'i}lico}. 2003.
+Dispon{\'\i}vel em:
+  \url{https://www.oswaldocruz.br/download/fichas/\%C3\%81cido\%20acetilsalic\%C3\%ADlico2003.pdf}.
+  Acesso em: 16 jan. 2017.}
+
+\bibitem{aspirinabayer}
+\abntrefinfo{Bayer}{BAYER}{2016}
+{BAYER, S.~A. \textbf{Hist{\'o}ria}. 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.aspirina.com.br/pt/sobre-aspirina/historia/}. Acesso em: 16
+  jan. 2017.}
+
+\bibitem{Goodman2005}
+\abntrefinfo{Goodman e Gilman}{GOODMAN; GILMAN}{2005}
+{GOODMAN, L.~S.; GILMAN, A. {Goodman {\&} Gilman's The Pharmacological Basis of
+  Therapeutics, 11th Edition}. In:  \textbf{Tuberculosis drugs}. [S.l.: s.n.],
+  2005. p. 1203--1223.}
+
+\bibitem{massabni2006}
+\abntrefinfo{Massabni}{MASSABNI}{2006}
+{MASSABNI, A.~C. \textbf{Um velho medicamento com novos usos}. Araraquara:
+  [s.n.], 2006.
+Dispon{\'\i}vel em: \url{http://www.crq4.org.br/quimica\_viva\_\_aspirina}.
+  Acesso em: 07 jan. 2017.}
+
+\bibitem{lopes2011}
+\abntrefinfo{Lopes}{LOPES}{2011}
+{LOPES, R. O.~M.
+\textbf{Aspirina: aspectos culturais, hist{\'o}ricos cient{\'i}ficos}.
+42~p. TCC (Graduaç{\~a}o) --- Curso de Qu{\'i}mica, Instituto de Qu{\'i}mica,
+  Universidade de Bras{\'i}lia, 2011.}
+
+\bibitem{PERUCH2013}
+\abntrefinfo{{MENDES, ALINE SOUZA ; PERUCH} e FRITZEN}{{MENDES, ALINE SOUZA ;
+  PERUCH}; FRITZEN}{2012}
+{{MENDES, ALINE SOUZA ; PERUCH}, M. D. G. B.~.; FRITZEN, M.~F.
+\textbf{S\'intese e purifica\c{c}\~ao do \'acido acetilsalic\'ilico atrav\'es
+  da recristaliza\c{c}\~ao utilizando diferentes tipos de solventes}.
+1689--1699~p. Tese (Doutorado) --- Faculdade Est\'acio de S\'a, Santa Catarina,
+  2012.}
+
+\bibitem{bulaaspirina}
+\abntrefinfo{BAYER}{BAYER}{}
+{BAYER, S.~A. \textbf{Bula do "{\'A}cido acetilsalic{\'i}lico"}.
+Dispon{\'\i}vel em:
+  \url{http://www.anvisa.gov.br/datavisa/fila\_bula/frmVisualizarBula.asp?pNuTransacao=23283922016&pIdAnexo=3915276}.
+  Acesso em: 18 jan. 2017.}
+
+\bibitem{Grassi2012}
+\abntrefinfo{Grassi}{GRASSI}{2012}
+{GRASSI, E.~A. {Antiagregantes Plaquet{\'{a}}rios: Ampliando Conhecimento}.
+\textbf{Disc. Scientia.}, v.~13, n.~1, p. 131--143, 2012.}
+
+\bibitem{prade2006}
+\abntrefinfo{Prade L.~Medeiros}{PRADE L.~MEDEIROS}{2006}
+{PRADE L.~MEDEIROS, C.
+Revista Viva Sa\'ude, \textbf{Consult\'orio M\'edico - \'Acido
+  acetilsalic\'ilico}. 2006.
+Dispon{\'\i}vel em:
+  \url{http://brasilpharma.com.br/site/pt/bem-estar-brasil-pharma/qual-a-diferenca-entre-um-medicamento-generico-e-similar/}.
+  Acesso em: 09 jan. 2017.}
+
+\bibitem{ache2015}
+\abntrefinfo{ACHE}{ACHE}{2015}
+{ACHE. \textbf{A nova lei da intercambialidade}.
+Guarulhos, S\~ao Paulo, 2015. Dispon{\'\i}vel em:
+  \url{http://www.ache.com.br/arquivos/FOLHETO\_INTERCAMBIALIDADE\_PDV.pdf}.
+  Acesso em: 9 jan. 2016.}
+
+\end{thebibliography}

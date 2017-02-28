@@ -1,0 +1,138 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.5 }
+
+\bibitem[Adobe Systems Incorporated 1999]{PostScript1999}
+\abntrefinfo{Adobe Systems Incorporated}{ADOBE SYSTEMS INCORPORATED}{1999}
+{ADOBE SYSTEMS INCORPORATED. \textbf{Postscript {L}anguage {R}eference}. 3. ed.
+  Reading: Addison-Wesley, 1999. Dispon{\'\i}vel em:
+  \url{http://partners.adobe.com/public/developer/ps/index\_specs.html}.}
+
+\bibitem[Adobe Systems Incorporated 2004]{PDF2004}
+\abntrefinfo{Adobe Systems Incorporated}{ADOBE SYSTEMS INCORPORATED}{2004}
+{ADOBE SYSTEMS INCORPORATED. \textbf{P{DF} {R}eference: {A}dobe {P}ortable
+  {D}ocument {F}ormat, {V}ersion 1.6}. 5. ed. San Jose: Adobe Systems
+  Incorporated, 2004. Dispon{\'\i}vel em:
+  \url{http://partners.adobe.com/public/developer/pdf/index\_reference.html}.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2000]{NBR6023:2000}
+\abntrefinfo{ABNT}{ABNT}{2000}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{NBR} 6023}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- refer\^encias --- elabora{\c
+  c}\~ao.
+Rio de Janeiro, 2000. 22~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2002]{NBR6023:2002}
+\abntrefinfo{ABNT}{ABNT}{2002}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{NBR} 6023}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- refer\^encias --- elabora{\c
+  c}\~ao.
+Rio de Janeiro, 2002. 24~p. Substitui a Ref.~\citeonline{NBR6023:2000}.}
+
+\bibitem[Biblioteca Central / UFLA 2001]{BIBUFLA2001}
+\abntrefinfo{Biblioteca Central / UFLA}{BIBLIOTECA CENTRAL / UFLA}{2001}
+{BIBLIOTECA CENTRAL / UFLA. \textbf{Manual de {O}rienta\c{c}\~ao em
+  {R}eferencia\c{c}\~ao {B}ibliogr\'afica ({NBR}6023-{ABNT})}.
+Lavras, 2001. Dispon{\'\i}vel em:
+  \url{http://www.biblioteca.ufla.br/download/normas/manual\_orientacao\_referencia\_bibliografica.pdf}.}
+
+\bibitem[Biblioteca da UFLA 2010]{BIB2010}
+\abntrefinfo{Biblioteca da UFLA}{BIBLIOTECA DA UFLA}{2010}
+{BIBLIOTECA DA UFLA. \textbf{Manual de {N}ormaliza\c{c}\~ao e {E}strutura de
+  {T}rabalhos {A}cad\^emicos da {UFLA}}.
+Lavras, 2010. 84~p. Dispon{\'\i}vel em:
+  \url{http://www.biblioteca.ufla.br/wordpress/wp-content/uploads/bdtd/manual\_normalizacao\_UFLA.pdf}.}
+
+\bibitem[Booth, Colomb e Williams 2000]{Booth2000}
+\abntrefinfo{Booth, Colomb e Williams}{BOOTH; COLOMB; WILLIAMS}{2000}
+{BOOTH, W.~C.; COLOMB, G.~G.; WILLIAMS, J.~M. \textbf{A {A}rte da {P}esquisa}.
+  S\~ao Paulo: Martins Fontes, 2000.}
+
+\bibitem[Eco 1996]{Eco1996}
+\abntrefinfo{Eco}{ECO}{1996}
+{ECO, U. \textbf{Como se {F}az uma {T}ese}. 14. ed. S\~ao Paulo: Perspectiva,
+  1996.}
+
+\bibitem[Fran{\c c}a et al. 2001]{Franca2001}
+\abntrefinfo{Fran{\c c}a et al.}{FRAN{\c C}A et al.}{2001}
+{FRAN{\c C}A, J.~L.; VASCONCELLOS, A.~C. de; AES, M.~H. de A.~M.; BORGES, S.~M.
+  \textbf{Manual {P}ara {N}ormaliza\c{c}\~ao de {P}ublica\c{c}\~oes
+  {T}\'ecnico-cient\'{\i}ficas}. 5. ed. Belo Horizonte: UFMG, 2001.}
+
+\bibitem[Gil 2002]{Gil2002}
+\abntrefinfo{Gil}{GIL}{2002}
+{GIL, A.~C. \textbf{Como {E}laborar {P}rojetos de {P}esquisa}. 4. ed. S\~ao
+  Paulo: Atlas, 2002.}
+
+\bibitem[Henz 2003]{Henz2003}
+\abntrefinfo{Henz}{HENZ}{2003}
+{HENZ, G.~P. Como {A}primorar o {F}ormato de um {A}rtigo {C}ient\'{\i}fico.
+\textbf{Horticultura Brasileira}, v.~21, n.~2, p. 145--148, maio 2003.
+Dispon{\'\i}vel em:
+  \url{http://www.scielo.br/scielo.php?pid=S0102-05362003000200004&script=sci\_abstract&tlng=pt}.}
+
+\bibitem[Hexsel 2004]{Hexsel2004}
+\abntrefinfo{Hexsel}{HEXSEL}{2004}
+{HEXSEL, R.~A. \textbf{Pequeno {M}anual da {E}scrita {T}\'ecnica}.
+Curitiba, 2004. Dispon{\'\i}vel em:
+  \url{http://www.inf.ufpr.br/info/techrep/RT\_DINF004\_2004.pdf}.}
+
+\bibitem[Lamport 1994]{Lamport1994}
+\abntrefinfo{Lamport}{LAMPORT}{1994}
+{LAMPORT, L. \textbf{\LaTeX: A Document Preparation System, User's Guide and
+  Reference Manual}. Reading: Addison-Wesley, 1994.}
+
+\bibitem[Martins e Lints 2000]{Martins2000}
+\abntrefinfo{Martins e Lints}{MARTINS; LINTS}{2000}
+{MARTINS, G. de A.; LINTS, A. \textbf{Guia para {E}labora\c{c}\~ao de
+  {M}onografias e {T}rabalhos de {C}onclus\~ao de {C}urso}. S\~ao Paulo: Atlas,
+  2000.}
+
+\bibitem[Moura, Ferreira e Paine 1998]{Moura1998}
+\abntrefinfo{Moura, Ferreira e Paine}{MOURA; FERREIRA; PAINE}{1998}
+{MOURA, M. L.~S. de; FERREIRA, M.~C.; PAINE, P.~A. \textbf{Manual de
+  {E}labora\c{c}\~ao de {P}rojetos de {P}esquisa}. Rio de Janeiro: EdUERJ,
+  1998.}
+
+\bibitem[Porto e Silva 2002]{Porto2002}
+\abntrefinfo{Porto e Silva}{PORTO; SILVA}{2002}
+{PORTO, C. de~Magalh\~aes; SILVA, C.~L. da. Artigo {C}ient\'{\i}fico: das
+  {P}artes para o {T}odo.
+\textbf{Di\'alogos \& Ci\^encia: Revista Eletr\^onica da Faculdade de
+  Tecnologia e Ci\^encias de Feira de Santana}, I, n.~1, p.~1--8, dez. 2002.
+Dispon{\'\i}vel em: \url{http://www.ftc.br/revistafsa/resumo.asp?art\_cod=1}.}
+
+\bibitem[PRPG/UFLA 2007]{PRPG2006}
+\abntrefinfo{PRPG/UFLA}{PRPG/UFLA}{2007}
+{PRPG/UFLA. \textbf{Normas para {E}laboração de {T}rabalhos de {C}onclus\~ao
+  de {C}ursos de {P}\'os-{G}radua\c{c}\~ao {L}ato {S}ensu}.
+2. ed. Lavras, 2007. 29~p. Dispon{\'\i}vel em:
+  \url{http://www.prpg.ufla.br/Legis/legis1.htm}.}
+
+\bibitem[Silva e Menezes 2005]{Silva2005}
+\abntrefinfo{Silva e Menezes}{SILVA; MENEZES}{2005}
+{SILVA, E.~L. da; MENEZES, E.~M. \textbf{Metodologia da {P}esquisa e
+  {E}labora\c{c}\~ao de {D}isserta\c{c}\~ao}. 4. ed. Florian\'opolis: UFSC,
+  2005.}
+
+\bibitem[Universidade Federal de Lavras. {Biblioteca Universit\'aria}
+  2016]{UFLA:2015}
+\abntrefinfo{Universidade Federal de Lavras}{UNIVERSIDADE FEDERAL DE
+  LAVRAS}{2016}
+{UNIVERSIDADE FEDERAL DE LAVRAS. {Biblioteca Universit\'aria}. \textbf{Manual
+  de normaliza{\c c}\~ao e estrutura de trabalhos acad\^emicos}: {TCC}s,
+  monografias, disserta\c{c}\~oes e teses.
+2. ed. Lavras, 2016. Dispon{\'\i}vel em:
+  \url{http://repositorio.ufla.br/jspui/handle/1/11017}. Acesso em: 11 abr.
+  2016.}
+
+\bibitem[Weber 2003]{Weber2003}
+\abntrefinfo{Weber}{WEBER}{2003}
+{WEBER, G. \textbf{Estilo bibtex compat{\'\i}vel com a `norma' 6023/2000 da
+  {ABNT}}.
+[S.l.], 2003. Dispon{\'\i}vel em: \url{http://abntex.codigolivre.org.br}.}
+
+\end{thebibliography}
