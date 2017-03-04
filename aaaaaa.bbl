@@ -13,8 +13,8 @@ Dispon{\'\i}vel em:
   Acesso em: 16 jan. 2017.}
 
 \bibitem{aspirinabayer}
-\abntrefinfo{Bayer}{BAYER}{2016}
-{BAYER, S.~A. \textbf{Hist{\'o}ria}. 2016.
+\abntrefinfo{{BAYER S.A.}}{{BAYER S.A.}}{2016}
+{{BAYER S.A.} \textbf{Hist{\'o}ria}. 2016.
 Dispon{\'\i}vel em:
   \url{http://www.aspirina.com.br/pt/sobre-aspirina/historia/}. Acesso em: 16
   jan. 2017.}
@@ -49,8 +49,8 @@ Dispon{\'\i}vel em: \url{http://www.crq4.org.br/quimica\_viva\_\_aspirina}.
   2012.}
 
 \bibitem{bulaaspirina}
-\abntrefinfo{BAYER}{BAYER}{}
-{BAYER, S.~A. \textbf{Bula do "{\'A}cido acetilsalic{\'i}lico"}.
+\abntrefinfo{{BAYER S. A.}}{{BAYER S. A.}}{}
+{{BAYER S. A.} \textbf{Bula do "{\'A}cido acetilsalic{\'i}lico"}.
 Dispon{\'\i}vel em:
   \url{http://www.anvisa.gov.br/datavisa/fila\_bula/frmVisualizarBula.asp?pNuTransacao=23283922016&pIdAnexo=3915276}.
   Acesso em: 18 jan. 2017.}
@@ -75,5 +75,34 @@ Dispon{\'\i}vel em:
 Guarulhos, S\~ao Paulo, 2015. Dispon{\'\i}vel em:
   \url{http://www.ache.com.br/arquivos/FOLHETO\_INTERCAMBIALIDADE\_PDV.pdf}.
   Acesso em: 9 jan. 2016.}
+
+\bibitem{Hage2012}
+\abntrefinfo{Hage e Carr}{HAGE; CARR}{2012}
+{HAGE, D.~S.; CARR, J.~D. \textbf{{Qu\'imica anal\'itica e an\'alise
+  quantitativa}}. S\~ao Paulo, SP: [s.n.], 2012.
+ISBN 9788576059813.}
+
+\bibitem{Skoog2014}
+\abntrefinfo{Skoog et al.}{SKOOG et al.}{2005}
+{SKOOG, D.~a. et al. \textbf{{Fundamentos de Qu{\'{i}}mica Anal{\'{i}}tica}}.
+  [s.n.], 2005. v.~58. 374~p.
+ISSN 05848547.
+ISBN 970-686-369-9. Dispon{\'\i}vel em:
+  \url{http://onlinelibrary.wiley.com/doi/10.1002/cbdv.200490137/abstract}.}
+
+\bibitem{Ruy1999}
+\abntrefinfo{Carvalho, Massahud e Guerreiro}{CARVALHO; MASSAHUD;
+  GUERREIRO}{1999}
+{CARVALHO, R.; MASSAHUD, N.; GUERREIRO, M.~C. \textbf{{Qu\'imica Anal\'itica}}.
+  Lavras, MG: [s.n.], 1999.}
+
+\bibitem{Farmacopeia2010}
+\abntrefinfo{{Farmacop{\'{e}}ia, Ag{\^{e}}ncia Nacional De Vigil{\^{a}}ncia
+  Sanit{\'{a}}ria}}{{Farmacop{\'{e}}ia, Ag{\^{e}}ncia Nacional De
+  Vigil{\^{a}}ncia Sanit{\'{a}}ria}}{2010}
+{{Farmacop{\'{e}}ia, Ag{\^{e}}ncia Nacional De Vigil{\^{a}}ncia
+  Sanit{\'{a}}ria}. {Farmacopeia Brasileira}.
+\textbf{Farmacopeia Brasileira}, Bras\'ilia, v.~2, p.~904, 2010.
+ISSN 00319422.}
 
 \end{thebibliography}
